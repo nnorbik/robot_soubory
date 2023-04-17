@@ -1,5 +1,5 @@
 {
-    "name": "custom_test1",
+    "name": "RepublikaRobot",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -7,11 +7,8 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
-        "custom.ts",
-        "main.py"
+        "RepublikaRobot.ts"
     ],
     "testFiles": [
         "test.ts"
