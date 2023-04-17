@@ -1,0 +1,5 @@
+Robot.InicializaceRobota(100)
+Robot.NastavitRameno(7, 0)
+Robot.UhelRamene(0)
+Robot.SevreniCelisti(Celisti.Uplne)
+Robot.UkonceniProgramuRobota()
